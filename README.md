@@ -1,6 +1,6 @@
 # Substrate Node Template
 
-A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
+![result](https://github.com/hongda3141/substrate_advanced_lesson02/blob/master/advanced-lessonN02-result.png)
 
 ## Getting Started
 
